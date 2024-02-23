@@ -1,3 +1,3 @@
-n = int(input())
+num = int(input())
 
-print(n *n)
+print(num * num)

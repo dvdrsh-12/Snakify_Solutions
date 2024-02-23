@@ -1,4 +1,4 @@
-n = int(input())
+num = int(input())
 
-print('The next number for the number', n, 'is', n+1)
-print('The previous number for the number', n, 'is', n-1)
+print('The next number for the number', num, 'is', num+1)
+print('The previous number for the number', num, 'is', num-1)

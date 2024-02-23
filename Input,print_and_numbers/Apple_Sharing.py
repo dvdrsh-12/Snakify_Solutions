@@ -1,5 +1,5 @@
 N = int(input())
-k = int(input())
+K = int(input())
 
-print(k // N)
-print(k % N)
+print(K // N)
+print(K % N)
