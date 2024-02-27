@@ -1,7 +1,7 @@
-a = int(input())
-b = int(input())
+num1 = int(input())
+num2 = int(input())
 
-if a > b:
-    print(b)
+if num1 > num2:
+    print(num2)
 else:
-    print(a)
+    print(num1)
